@@ -1,0 +1,5 @@
+﻿interface ISoundProducable
+{
+    string ProduceSound();
+}
+
